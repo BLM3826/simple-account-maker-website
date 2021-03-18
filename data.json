@@ -1,0 +1,11 @@
+[
+{"Submitted":"2020-01-26 08:59:20","firstname":"test1","email":"test1@test.gr","lastname":"test_1","mobile":"2103009321","category":"Cleanings"},
+{"Submitted":"2020-01-26 08:56:18","firstname":"test2","email":"test2@test.gr","lastname":"test_2","mobile":"2103009322","category":"Cleanings"},
+{"Submitted":"2020-01-26 08:55:40","firstname":"test3","email":"test3@test.gr","lastname":"test_3","mobile":"2103009323","category":"Cleanings"},
+{"Submitted":"2020-01-26 08:50:04","firstname":"test4","email":"test4@test.gr","lastname":"test_4","mobile":"2103009324","category":"EPC"},
+{"Submitted":"2020-01-26 08:46:03","firstname":"test5","email":"test5@test.gr","lastname":"test_5","mobile":"2103009325","category":"EPC"},
+{"Submitted":"2020-01-26 08:25:24","firstname":"test6","email":"test6@test.gr","lastname":"test_6","mobile":"2103009326","category":"EPC"},
+{"Submitted":"2020-01-26 08:25:11","firstname":"test7","email":"test7@test.gr","lastname":"test_7","mobile":"2103009327","category":"EPC"},
+{"Submitted":"2020-01-26 08:23:34","firstname":"test8","email":"test8@test.gr","lastname":"test_8","mobile":"2103009328","category":"EICR"},
+{"Submitted":"2020-01-26 08:23:28","firstname":"test9","email":"test9@test.gr","lastname":"test_9","mobile":"2103009329","category":"EICR"}
+]
